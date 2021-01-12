@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh-TW">
+  <head>
+    <meta name="dtb:uid" content="www.haodoo.net"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>《這就是鬼》倪匡</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="0" playOrder="1">
+      <navLabel>
+        <text>目錄</text>
+      </navLabel>
+      <content src="0.xhtml"/>
+    </navPoint>
+    <navPoint id="1" playOrder="2">
+      <navLabel>
+        <text>自序</text>
+      </navLabel>
+      <content src="1.xhtml"/>
+    </navPoint>
+    <navPoint id="2" playOrder="3">
+      <navLabel>
+        <text>一、一</text>
+      </navLabel>
+      <content src="2.xhtml"/>
+    </navPoint>
+    <navPoint id="3" playOrder="4">
+      <navLabel>
+        <text>二、尋人</text>
+      </navLabel>
+      <content src="3.xhtml"/>
+    </navPoint>
+    <navPoint id="4" playOrder="5">
+      <navLabel>
+        <text>三、黑超</text>
+      </navLabel>
+      <content src="4.xhtml"/>
+    </navPoint>
+    <navPoint id="5" playOrder="6">
+      <navLabel>
+        <text>四、放屁</text>
+      </navLabel>
+      <content src="5.xhtml"/>
+    </navPoint>
+    <navPoint id="6" playOrder="7">
+      <navLabel>
+        <text>五、日本刀</text>
+      </navLabel>
+      <content src="6.xhtml"/>
+    </navPoint>
+    <navPoint id="7" playOrder="8">
+      <navLabel>
+        <text>六、三級片</text>
+      </navLabel>
+      <content src="7.xhtml"/>
+    </navPoint>
+    <navPoint id="8" playOrder="9">
+      <navLabel>
+        <text>七、選美記</text>
+      </navLabel>
+      <content src="8.xhtml"/>
+    </navPoint>
+    <navPoint id="9" playOrder="10">
+      <navLabel>
+        <text>八、不祥之兆</text>
+      </navLabel>
+      <content src="9.xhtml"/>
+    </navPoint>
+    <navPoint id="10" playOrder="11">
+      <navLabel>
+        <text>九、單數雙數</text>
+      </navLabel>
+      <content src="10.xhtml"/>
+    </navPoint>
+    <navPoint id="11" playOrder="12">
+      <navLabel>
+        <text>十、捉鬼派對</text>
+      </navLabel>
+      <content src="11.xhtml"/>
+    </navPoint>
+    <navPoint id="12" playOrder="13">
+      <navLabel>
+        <text>十一、朦朧美人</text>
+      </navLabel>
+      <content src="12.xhtml"/>
+    </navPoint>
+    <navPoint id="13" playOrder="14">
+      <navLabel>
+        <text>十二、電子遊戲程式</text>
+      </navLabel>
+      <content src="13.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

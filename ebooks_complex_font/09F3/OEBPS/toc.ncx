@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh-TW">
+  <head>
+    <meta name="dtb:uid" content="www.haodoo.net"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>《品三國》易中天</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="0" playOrder="1">
+      <navLabel>
+        <text>目錄</text>
+      </navLabel>
+      <content src="0.xhtml"/>
+    </navPoint>
+    <navPoint id="1" playOrder="2">
+      <navLabel>
+        <text>︻緒言　大江東去︼</text>
+      </navLabel>
+      <content src="1.xhtml"/>
+    </navPoint>
+    <navPoint id="2" playOrder="3">
+      <navLabel>
+        <text>︻第一篇　魏武揮鞭︼　第一回　真假曹操</text>
+      </navLabel>
+      <content src="2.xhtml"/>
+    </navPoint>
+    <navPoint id="3" playOrder="4">
+      <navLabel>
+        <text>　第二回　奸雄之謎</text>
+      </navLabel>
+      <content src="3.xhtml"/>
+    </navPoint>
+    <navPoint id="4" playOrder="5">
+      <navLabel>
+        <text>　第三回　能臣之路</text>
+      </navLabel>
+      <content src="4.xhtml"/>
+    </navPoint>
+    <navPoint id="5" playOrder="6">
+      <navLabel>
+        <text>　第四回　何去何從</text>
+      </navLabel>
+      <content src="5.xhtml"/>
+    </navPoint>
+    <navPoint id="6" playOrder="7">
+      <navLabel>
+        <text>　第五回　一錯再錯</text>
+      </navLabel>
+      <content src="6.xhtml"/>
+    </navPoint>
+    <navPoint id="7" playOrder="8">
+      <navLabel>
+        <text>　第六回　深謀遠慮</text>
+      </navLabel>
+      <content src="7.xhtml"/>
+    </navPoint>
+    <navPoint id="8" playOrder="9">
+      <navLabel>
+        <text>　第七回　先入為主</text>
+      </navLabel>
+      <content src="8.xhtml"/>
+    </navPoint>
+    <navPoint id="9" playOrder="10">
+      <navLabel>
+        <text>　第八回　鬼使神差</text>
+      </navLabel>
+      <content src="9.xhtml"/>
+    </navPoint>
+    <navPoint id="10" playOrder="11">
+      <navLabel>
+        <text>　第九回　一決雌雄</text>
+      </navLabel>
+      <content src="10.xhtml"/>
+    </navPoint>
+    <navPoint id="11" playOrder="12">
+      <navLabel>
+        <text>　第十回　勝敗有憑</text>
+      </navLabel>
+      <content src="11.xhtml"/>
+    </navPoint>
+    <navPoint id="12" playOrder="13">
+      <navLabel>
+        <text>　第十一回　海納百川</text>
+      </navLabel>
+      <content src="12.xhtml"/>
+    </navPoint>
+    <navPoint id="13" playOrder="14">
+      <navLabel>
+        <text>　第十二回　天下歸心</text>
+      </navLabel>
+      <content src="13.xhtml"/>
+    </navPoint>
+    <navPoint id="14" playOrder="15">
+      <navLabel>
+        <text>︻第二篇　孫劉聯盟︼　第十三回　青梅煮酒</text>
+      </navLabel>
+      <content src="14.xhtml"/>
+    </navPoint>
+    <navPoint id="15" playOrder="16">
+      <navLabel>
+        <text>　第十四回　天生奇才</text>
+      </navLabel>
+      <content src="15.xhtml"/>
+    </navPoint>
+    <navPoint id="16" playOrder="17">
+      <navLabel>
+        <text>　第十五回　慧眼所見</text>
+      </navLabel>
+      <content src="16.xhtml"/>
+    </navPoint>
+    <navPoint id="17" playOrder="18">
+      <navLabel>
+        <text>　第十六回　三顧茅廬</text>
+      </navLabel>
+      <content src="17.xhtml"/>
+    </navPoint>
+    <navPoint id="18" playOrder="19">
+      <navLabel>
+        <text>　第十七回　隆中對策</text>
+      </navLabel>
+      <content src="18.xhtml"/>
+    </navPoint>
+    <navPoint id="19" playOrder="20">
+      <navLabel>
+        <text>　第十八回　江東基業</text>
+      </navLabel>
+      <content src="19.xhtml"/>
+    </navPoint>
+    <navPoint id="20" playOrder="21">
+      <navLabel>
+        <text>　第十九回　必爭之地</text>
+      </navLabel>
+      <content src="20.xhtml"/>
+    </navPoint>
+    <navPoint id="21" playOrder="22">
+      <navLabel>
+        <text>　第二十回　兵臨城下</text>
+      </navLabel>
+      <content src="21.xhtml"/>
+    </navPoint>
+    <navPoint id="22" playOrder="23">
+      <navLabel>
+        <text>　第二十一回　臨危受命</text>
+      </navLabel>
+      <content src="22.xhtml"/>
+    </navPoint>
+    <navPoint id="23" playOrder="24">
+      <navLabel>
+        <text>　第二十二回　力挽狂瀾</text>
+      </navLabel>
+      <content src="23.xhtml"/>
+    </navPoint>
+    <navPoint id="24" playOrder="25">
+      <navLabel>
+        <text>　第二十三回　中流砥柱</text>
+      </navLabel>
+      <content src="24.xhtml"/>
+    </navPoint>
+    <navPoint id="25" playOrder="26">
+      <navLabel>
+        <text>　第二十四回　赤壁疑雲</text>
+      </navLabel>
+      <content src="25.xhtml"/>
+    </navPoint>
+    <navPoint id="26" playOrder="27">
+      <navLabel>
+        <text>︻第三篇　三國鼎立︼　第二十五回　半途而廢</text>
+      </navLabel>
+      <content src="26.xhtml"/>
+    </navPoint>
+    <navPoint id="27" playOrder="28">
+      <navLabel>
+        <text>　第二十六回　得寸進尺</text>
+      </navLabel>
+      <content src="27.xhtml"/>
+    </navPoint>
+    <navPoint id="28" playOrder="29">
+      <navLabel>
+        <text>　第二十七回　進退失據</text>
+      </navLabel>
+      <content src="28.xhtml"/>
+    </navPoint>
+    <navPoint id="29" playOrder="30">
+      <navLabel>
+        <text>　第二十八回　借刀殺人</text>
+      </navLabel>
+      <content src="29.xhtml"/>
+    </navPoint>
+    <navPoint id="30" playOrder="31">
+      <navLabel>
+        <text>　第二十九回　命案真相</text>
+      </navLabel>
+      <content src="30.xhtml"/>
+    </navPoint>
+    <navPoint id="31" playOrder="32">
+      <navLabel>
+        <text>　第三十回　奪嫡之爭</text>
+      </navLabel>
+      <content src="31.xhtml"/>
+    </navPoint>
+    <navPoint id="32" playOrder="33">
+      <navLabel>
+        <text>　第三十一回　乘虛而入</text>
+      </navLabel>
+      <content src="32.xhtml"/>
+    </navPoint>
+    <navPoint id="33" playOrder="34">
+      <navLabel>
+        <text>　第三十二回　蜜月陰謀</text>
+      </navLabel>
+      <content src="33.xhtml"/>
+    </navPoint>
+    <navPoint id="34" playOrder="35">
+      <navLabel>
+        <text>　第三十三回　白衣渡江</text>
+      </navLabel>
+      <content src="34.xhtml"/>
+    </navPoint>
+    <navPoint id="35" playOrder="36">
+      <navLabel>
+        <text>　第三十四回　敗走麥城</text>
+      </navLabel>
+      <content src="35.xhtml"/>
+    </navPoint>
+    <navPoint id="36" playOrder="37">
+      <navLabel>
+        <text>　第三十五回　猇亭遺恨</text>
+      </navLabel>
+      <content src="36.xhtml"/>
+    </navPoint>
+    <navPoint id="37" playOrder="38">
+      <navLabel>
+        <text>　第三十六回　永安託孤</text>
+      </navLabel>
+      <content src="37.xhtml"/>
+    </navPoint>
+    <navPoint id="38" playOrder="39">
+      <navLabel>
+        <text>︻第四篇　重歸一統︼　第三十七回　非常君臣</text>
+      </navLabel>
+      <content src="38.xhtml"/>
+    </navPoint>
+    <navPoint id="39" playOrder="40">
+      <navLabel>
+        <text>　第三十八回　難容水火</text>
+      </navLabel>
+      <content src="39.xhtml"/>
+    </navPoint>
+    <navPoint id="40" playOrder="41">
+      <navLabel>
+        <text>　第三十九回　痛失臂膀</text>
+      </navLabel>
+      <content src="40.xhtml"/>
+    </navPoint>
+    <navPoint id="41" playOrder="42">
+      <navLabel>
+        <text>　第四十回　禍起蕭牆</text>
+      </navLabel>
+      <content src="41.xhtml"/>
+    </navPoint>
+    <navPoint id="42" playOrder="43">
+      <navLabel>
+        <text>　第四十一回　以攻為守</text>
+      </navLabel>
+      <content src="42.xhtml"/>
+    </navPoint>
+    <navPoint id="43" playOrder="44">
+      <navLabel>
+        <text>　第四十二回　無力回天</text>
+      </navLabel>
+      <content src="43.xhtml"/>
+    </navPoint>
+    <navPoint id="44" playOrder="45">
+      <navLabel>
+        <text>　第四十三回　風雲際會</text>
+      </navLabel>
+      <content src="44.xhtml"/>
+    </navPoint>
+    <navPoint id="45" playOrder="46">
+      <navLabel>
+        <text>　第四十四回　坐斷東南</text>
+      </navLabel>
+      <content src="45.xhtml"/>
+    </navPoint>
+    <navPoint id="46" playOrder="47">
+      <navLabel>
+        <text>　第四十五回　情天恨海</text>
+      </navLabel>
+      <content src="46.xhtml"/>
+    </navPoint>
+    <navPoint id="47" playOrder="48">
+      <navLabel>
+        <text>　第四十六回　冷暖人生</text>
+      </navLabel>
+      <content src="47.xhtml"/>
+    </navPoint>
+    <navPoint id="48" playOrder="49">
+      <navLabel>
+        <text>　第四十七回　逆流而上</text>
+      </navLabel>
+      <content src="48.xhtml"/>
+    </navPoint>
+    <navPoint id="49" playOrder="50">
+      <navLabel>
+        <text>　第四十八回　殊途同歸</text>
+      </navLabel>
+      <content src="49.xhtml"/>
+    </navPoint>
+    <navPoint id="50" playOrder="51">
+      <navLabel>
+        <text>︻結束語　滾滾長江東逝水︼</text>
+      </navLabel>
+      <content src="50.xhtml"/>
+    </navPoint>
+    <navPoint id="51" playOrder="52">
+      <navLabel>
+        <text>　一、士族取代貴族</text>
+      </navLabel>
+      <content src="51.xhtml"/>
+    </navPoint>
+    <navPoint id="52" playOrder="53">
+      <navLabel>
+        <text>　二、門閥遇到軍閥</text>
+      </navLabel>
+      <content src="52.xhtml"/>
+    </navPoint>
+    <navPoint id="53" playOrder="54">
+      <navLabel>
+        <text>　三、南方對抗北方</text>
+      </navLabel>
+      <content src="53.xhtml"/>
+    </navPoint>
+    <navPoint id="54" playOrder="55">
+      <navLabel>
+        <text>　四、逐鹿未必得鹿</text>
+      </navLabel>
+      <content src="54.xhtml"/>
+    </navPoint>
+    <navPoint id="55" playOrder="56">
+      <navLabel>
+        <text>　五、解鈴還須繫鈴人</text>
+      </navLabel>
+      <content src="55.xhtml"/>
+    </navPoint>
+    <navPoint id="56" playOrder="57">
+      <navLabel>
+        <text>　六、後浪變成前浪</text>
+      </navLabel>
+      <content src="56.xhtml"/>
+    </navPoint>
+    <navPoint id="57" playOrder="58">
+      <navLabel>
+        <text>︻附錄一　心平氣和說空城︼</text>
+      </navLabel>
+      <content src="57.xhtml"/>
+    </navPoint>
+    <navPoint id="58" playOrder="59">
+      <navLabel>
+        <text>︻附錄二　我的歷史觀︼</text>
+      </navLabel>
+      <content src="58.xhtml"/>
+    </navPoint>
+    <navPoint id="59" playOrder="60">
+      <navLabel>
+        <text>︻後記︼</text>
+      </navLabel>
+      <content src="59.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

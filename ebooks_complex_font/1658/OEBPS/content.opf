@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
+ <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+   <dc:creator opf:role="aut">倪匡</dc:creator>
+   <dc:title>這就是鬼</dc:title>
+   <dc:language>zh-TW</dc:language>
+   <dc:identifier id="BookId">www.haodoo.net</dc:identifier>
+ </metadata>
+ <manifest>
+  <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+  <item id="style" href="stylesheet.css" media-type="text/css" />
+  <item id="pagetemplate" href="page-template.xpgt" media-type="application/vnd.adobe-page-template+xml" />
+  <item id="P0" href="0.xhtml" media-type="application/xhtml+xml" />
+  <item id="P1" href="1.xhtml" media-type="application/xhtml+xml" />
+  <item id="P2" href="2.xhtml" media-type="application/xhtml+xml" />
+  <item id="P3" href="3.xhtml" media-type="application/xhtml+xml" />
+  <item id="P4" href="4.xhtml" media-type="application/xhtml+xml" />
+  <item id="P5" href="5.xhtml" media-type="application/xhtml+xml" />
+  <item id="P6" href="6.xhtml" media-type="application/xhtml+xml" />
+  <item id="P7" href="7.xhtml" media-type="application/xhtml+xml" />
+  <item id="P8" href="8.xhtml" media-type="application/xhtml+xml" />
+  <item id="P9" href="9.xhtml" media-type="application/xhtml+xml" />
+  <item id="P10" href="10.xhtml" media-type="application/xhtml+xml" />
+  <item id="P11" href="11.xhtml" media-type="application/xhtml+xml" />
+  <item id="P12" href="12.xhtml" media-type="application/xhtml+xml" />
+  <item id="P13" href="13.xhtml" media-type="application/xhtml+xml" />
+ </manifest>
+<spine toc="ncx">
+  <itemref idref="P0" />
+  <itemref idref="P1" />
+  <itemref idref="P2" />
+  <itemref idref="P3" />
+  <itemref idref="P4" />
+  <itemref idref="P5" />
+  <itemref idref="P6" />
+  <itemref idref="P7" />
+  <itemref idref="P8" />
+  <itemref idref="P9" />
+  <itemref idref="P10" />
+  <itemref idref="P11" />
+  <itemref idref="P12" />
+  <itemref idref="P13" />
+ </spine>
+</package>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh-TW">
+  <head>
+    <meta name="dtb:uid" content="www.haodoo.net"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>《射鵰英雄傳一》金庸</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="0" playOrder="1">
+      <navLabel>
+        <text>目錄</text>
+      </navLabel>
+      <content src="0.xhtml"/>
+    </navPoint>
+    <navPoint id="1" playOrder="2">
+      <navLabel>
+        <text>第一回　風雪驚變</text>
+      </navLabel>
+      <content src="1.xhtml"/>
+    </navPoint>
+    <navPoint id="2" playOrder="3">
+      <navLabel>
+        <text>第二回　江南七怪</text>
+      </navLabel>
+      <content src="2.xhtml"/>
+    </navPoint>
+    <navPoint id="3" playOrder="4">
+      <navLabel>
+        <text>第三回　大漠風沙</text>
+      </navLabel>
+      <content src="3.xhtml"/>
+    </navPoint>
+    <navPoint id="4" playOrder="5">
+      <navLabel>
+        <text>第四回　黑風雙煞</text>
+      </navLabel>
+      <content src="4.xhtml"/>
+    </navPoint>
+    <navPoint id="5" playOrder="6">
+      <navLabel>
+        <text>第五回　彎弓射鵰</text>
+      </navLabel>
+      <content src="5.xhtml"/>
+    </navPoint>
+    <navPoint id="6" playOrder="7">
+      <navLabel>
+        <text>第六回　崖頂疑陣</text>
+      </navLabel>
+      <content src="6.xhtml"/>
+    </navPoint>
+    <navPoint id="7" playOrder="8">
+      <navLabel>
+        <text>第七回　比武招親</text>
+      </navLabel>
+      <content src="7.xhtml"/>
+    </navPoint>
+    <navPoint id="8" playOrder="9">
+      <navLabel>
+        <text>第八回　各顯神通</text>
+      </navLabel>
+      <content src="8.xhtml"/>
+    </navPoint>
+    <navPoint id="9" playOrder="10">
+      <navLabel>
+        <text>第九回　鐵槍破犁</text>
+      </navLabel>
+      <content src="9.xhtml"/>
+    </navPoint>
+    <navPoint id="10" playOrder="11">
+      <navLabel>
+        <text>第十回　冤家聚頭</text>
+      </navLabel>
+      <content src="10.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
